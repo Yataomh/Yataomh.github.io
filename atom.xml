@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="Yataomh.github.io/"/>
-  <updated>2017-06-13T14:28:25.000Z</updated>
+  <updated>2017-06-25T10:19:28.000Z</updated>
   <id>Yataomh.github.io/</id>
   
   <author>
@@ -16,41 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello everyone</title>
-    <link href="Yataomh.github.io/2017/06/13/hello-everyone/"/>
-    <id>Yataomh.github.io/2017/06/13/hello-everyone/</id>
-    <published>2017-06-13T14:12:40.000Z</published>
-    <updated>2017-06-13T14:28:25.000Z</updated>
+    <title>My First Blog</title>
+    <link href="Yataomh.github.io/2017/06/25/My-First-Blog/"/>
+    <id>Yataomh.github.io/2017/06/25/My-First-Blog/</id>
+    <published>2017-06-25T10:16:51.000Z</published>
+    <updated>2017-06-25T10:19:28.000Z</updated>
     
-    <content type="html"><![CDATA[<p>disqusIdentifier: fdsF34ff34<br>keywords:</p>
-<ul>
-<li>yataomh</li>
-<li>wangxu<br>clearReading: true<br>thumbnailImage: 1.png<br>thumbnailImagePosition: bottom<br>autoThumbnailImage: yes<br>metaAlignment: center<br>coverImage: 2.png<br>coverCaption: “A beautiful sunrise”<br>coverMeta: out<br>coverSize: full<br>coverImage: 2.png<br>gallery:<ul>
-<li>3.jpg “New York”</li>
-<li>4.png “Paris”</li>
-<li><a href="http://i.imgur.com/o9r19kD.jpg" target="_blank" rel="external">http://i.imgur.com/o9r19kD.jpg</a> “Dubai”</li>
-<li><a href="https://example.com/orignal.jpg" target="_blank" rel="external">https://example.com/orignal.jpg</a> <a href="https://example.com/thumbnail.jpg" target="_blank" rel="external">https://example.com/thumbnail.jpg</a> “Sidney”<br>comments: false<br>meta: false<br>actions: false</li>
-</ul>
-</li>
-</ul>
-<ol>
-<li>Tom and Jenny</li>
-<li>Best wishes to all of u.</li>
-<li>You are the apple of my heart.</li>
-</ol>
+    <content type="html"><![CDATA[<p>希望你有高跟鞋也有跑鞋，喝茶也喝酒。希望你有勇敢的朋友，有牛逼的对手。希望你对过往一切情深意重但从不回头。希望你对想要的未来抵死执着但当下却无急迫神色。希望你特别敢，特别美，特别温柔特别狠。<br>——写给自己</p>
+<a id="more"></a>
+<p>Nice to meet u, my beloved!</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;disqusIdentifier: fdsF34ff34&lt;br&gt;keywords:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;yataomh&lt;/li&gt;
-&lt;li&gt;wangxu&lt;br&gt;clearReading: true&lt;br&gt;thumbnailImage: 1.png&lt;br&gt;thumbnai
+      &lt;p&gt;希望你有高跟鞋也有跑鞋，喝茶也喝酒。希望你有勇敢的朋友，有牛逼的对手。希望你对过往一切情深意重但从不回头。希望你对想要的未来抵死执着但当下却无急迫神色。希望你特别敢，特别美，特别温柔特别狠。&lt;br&gt;——写给自己&lt;/p&gt;
     
     </summary>
     
     
-      <category term="everyone" scheme="Yataomh.github.io/tags/everyone/"/>
+      <category term="first" scheme="Yataomh.github.io/tags/first/"/>
     
   </entry>
   
@@ -59,9 +43,10 @@
     <link href="Yataomh.github.io/2017/06/11/hello-world/"/>
     <id>Yataomh.github.io/2017/06/11/hello-world/</id>
     <published>2017-06-11T02:55:22.000Z</published>
-    <updated>2017-06-11T02:55:22.000Z</updated>
+    <updated>2017-06-25T10:15:30.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<a id="more"></a>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
@@ -74,7 +59,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
