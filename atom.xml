@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="Yataomh.github.io/"/>
-  <updated>2017-07-05T14:55:47.000Z</updated>
+  <updated>2017-08-10T13:27:14.000Z</updated>
   <id>Yataomh.github.io/</id>
   
   <author>
@@ -16,15 +16,52 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>APP Search</title>
+    <link href="Yataomh.github.io/2017/08/10/APP%E7%AB%AF%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD/"/>
+    <id>Yataomh.github.io/2017/08/10/APP端搜索功能/</id>
+    <published>2017-08-10T12:21:18.000Z</published>
+    <updated>2017-08-10T13:27:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>APP端搜索功能在淘宝、微博、微信及ins上的应用</p>
+<a id="more"></a>
+<hr>
+<p>搜索功能分为：</p>
+<ul>
+<li>搜索前：搜索框电商类app常伴有推荐搜索词，如微博、淘宝等</li>
+<li>搜索框光标定位：光标定位至搜索框时，跳转到搜索页，搜索页一般有推荐内容（如探索发现、ins图片视频的推荐等）、历史搜索记录或筛选项（如微信可筛选搜索范围）。</li>
+<li>搜索时：当敲击键盘时，进入智能模糊搜索界面，关联关键词</li>
+<li>搜索结果：点击提示关联词或点击键盘的“搜索”按钮，则进入搜索结果界面</li>
+</ul>
+<p>注：有时“搜索时”和“搜索结果”界面的样式一样，如微信、ins</p>
+<h3 id="1-wechat"><a href="#1-wechat" class="headerlink" title="1. wechat"></a>1. wechat</h3><p><img src="https://user-images.githubusercontent.com/25148745/29171634-c157a124-7e0f-11e7-91b4-088931d7736b.png" alt="wechat"></p>
+<h3 id="2-tb"><a href="#2-tb" class="headerlink" title="2. tb"></a>2. tb</h3><p><img src="https://user-images.githubusercontent.com/25148745/29169713-08f330e6-7e08-11e7-8e42-e781cae0b554.png" alt="tb"></p>
+<h3 id="3-weibo"><a href="#3-weibo" class="headerlink" title="3. weibo"></a>3. weibo</h3><p><img src="https://user-images.githubusercontent.com/25148745/29169714-08f5a79a-7e08-11e7-8266-0e22416711d1.png" alt="wb"></p>
+<h3 id="4-ins"><a href="#4-ins" class="headerlink" title="4. ins"></a>4. ins</h3><p><img src="https://user-images.githubusercontent.com/25148745/29169712-08f250c2-7e08-11e7-9fff-05a5731089b0.png" alt="ins"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;APP端搜索功能在淘宝、微博、微信及ins上的应用&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="app-design" scheme="Yataomh.github.io/categories/app-design/"/>
+    
+    
+      <category term="app" scheme="Yataomh.github.io/tags/app/"/>
+    
+      <category term="search" scheme="Yataomh.github.io/tags/search/"/>
+    
+  </entry>
+  
+  <entry>
     <title>APP Data Visualization</title>
     <link href="Yataomh.github.io/2017/07/05/APP%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     <id>Yataomh.github.io/2017/07/05/APP数据可视化/</id>
     <published>2017-07-05T14:55:06.000Z</published>
-    <updated>2017-07-05T14:55:47.000Z</updated>
+    <updated>2017-08-10T12:57:31.000Z</updated>
     
-    <content type="html"><![CDATA[<ul>
-<li>APP端数据展示及交互案例</li>
-</ul>
+    <content type="html"><![CDATA[<p>APP端数据展示及交互案例</p>
 <a id="more"></a>
 <hr>
 <h2 id="Web端与App端的显示差异"><a href="#Web端与App端的显示差异" class="headerlink" title="Web端与App端的显示差异"></a>Web端与App端的显示差异</h2><h3 id="1-Web端图表展示"><a href="#1-Web端图表展示" class="headerlink" title="1. Web端图表展示"></a>1. Web端图表展示</h3><p><img src="https://user-images.githubusercontent.com/25148745/27589874-812aeab4-5b7f-11e7-8e10-f1a4559de59c.jpg" alt="mt4"></p>
@@ -60,9 +97,7 @@
     
     <summary type="html">
     
-      &lt;ul&gt;
-&lt;li&gt;APP端数据展示及交互案例&lt;/li&gt;
-&lt;/ul&gt;
+      &lt;p&gt;APP端数据展示及交互案例&lt;/p&gt;
     
     </summary>
     
@@ -76,13 +111,13 @@
   </entry>
   
   <entry>
-    <title>移动端表单设计-转</title>
+    <title>移动端表单设计</title>
     <link href="Yataomh.github.io/2017/06/26/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A1%A8%E5%8D%95%E8%AE%BE%E8%AE%A1/"/>
     <id>Yataomh.github.io/2017/06/26/移动端表单设计/</id>
     <published>2017-06-26T14:43:30.000Z</published>
-    <updated>2017-06-27T15:57:44.000Z</updated>
+    <updated>2017-08-10T13:00:25.000Z</updated>
     
-    <content type="html"><![CDATA[<p>如何才能让用户高效的填写表单呢？除了让表单看起来更美一些，高效的完成是表单设计的主要目标。</p>
+    <content type="html"><![CDATA[<p>APP端填写表单设计及案例</p>
 <a id="more"></a>
 <h3 id="1-使用分离控件"><a href="#1-使用分离控件" class="headerlink" title="1. 使用分离控件"></a>1. 使用分离控件</h3><p>一个单选项可能含有2-5个备选项，尽量使用分离控件。这样所有的选项是可见的，同时用户可以快速的做出选择。<br><img src="https://user-images.githubusercontent.com/25148745/27546154-9089347c-5ac4-11e7-8bb7-53bc299f4b04.png" alt="mt1"></p>
 <h3 id="2-将多个下拉列表变为单一下拉列表"><a href="#2-将多个下拉列表变为单一下拉列表" class="headerlink" title="2. 将多个下拉列表变为单一下拉列表"></a>2. 将多个下拉列表变为单一下拉列表</h3><p>在日期选择时，通常含有3个部分，年、月、日，如果使用每一个数据的选择要至少3步，点击-选择-确定，那么就会产生9步操作。如果使用单一下拉列表则只需5步，点击-选择年-选择月-选择日-确定。<br><img src="https://user-images.githubusercontent.com/25148745/27546155-9092192a-5ac4-11e7-8d1b-381ab456591e.png" alt="mt2"></p>
@@ -100,7 +135,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;如何才能让用户高效的填写表单呢？除了让表单看起来更美一些，高效的完成是表单设计的主要目标。&lt;/p&gt;
+      &lt;p&gt;APP端填写表单设计及案例&lt;/p&gt;
     
     </summary>
     
